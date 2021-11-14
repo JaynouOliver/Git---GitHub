@@ -7,7 +7,7 @@ int main(){
     int a , b;
     cin >> a >> b;
 
-    cout << "the sum was" << a + b << endl;
+    cout << "the sum changed" << a + b << endl;
 
     return 0;
 }
